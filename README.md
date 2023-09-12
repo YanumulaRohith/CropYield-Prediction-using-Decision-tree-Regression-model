@@ -1,1 +1,1 @@
-# CropYield-Prediction-using-Decision-tree-Algorith-
+# CropYield-Prediction-using-Decision-tree-Algorithm-
